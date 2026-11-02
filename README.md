@@ -1,0 +1,2 @@
+# jurnal-gtk-pmp
+JURNAL HARIAN BIDANG GTK DAN PMP
